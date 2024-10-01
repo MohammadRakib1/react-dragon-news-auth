@@ -48,7 +48,7 @@ const Navbar = () => {
                             src={userDefaultPic} />
                     </div>
                 </div>
-                <Link>
+                <Link to='/login'>
                     <button className='btn'>Login</button>
                 </Link>
             </div>
